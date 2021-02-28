@@ -1,0 +1,11 @@
+main: name.griffeth.sebastian.DolphinPlugin.DolphinMain
+name: DolphinPlugin
+version: 1.0
+author: Sebastian Griffeth
+api-version: 1.16
+description: adds features to the dolphin mob
+commands:
+   load:
+   pets:
+   save:
+   
